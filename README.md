@@ -1,5 +1,5 @@
 # coding-project-template
-# e-plantShopping 🌱
+# e-plantShopping 
 
 ## Project Name
 e-plantShopping
